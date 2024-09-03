@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChattyApp</string>
+
+    <string name="back4app_server_url">YOUR_SERVER_URL</string>
+    <string name="back4app_app_id">YOUR_APP_ID</string>
+    <string name="back4app_client_key">YOUR_CLIENT_KEY</string>
+</resources>
